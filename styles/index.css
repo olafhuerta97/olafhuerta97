@@ -1,0 +1,27 @@
+
+.inicio{
+    background-image: url("../assets/images/imagen_1.png");
+    background-repeat: no-repeat;
+    height: 90vh;
+    background-size: cover;
+}
+
+.school_logo{
+    height: 90%;
+    width: 90%;
+    object-fit: contain;
+}
+
+.transparent {
+    background-color: transparent;
+}
+
+.experience {
+    background-color: #A5D1F0;
+}
+
+.company-logo {
+    height: 80%;
+    width: 80%;
+    object-fit: contain;
+}
