@@ -20,8 +20,16 @@
     background-color: #A5D1F0;
 }
 
+.academic_activities {
+    background-color: #A5D1F0;
+}
+
 .company-logo {
     height: 80%;
     width: 80%;
     object-fit: contain;
+}
+
+.skills{
+    list-style-type: none;
 }
